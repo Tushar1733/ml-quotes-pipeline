@@ -32,3 +32,9 @@ The classification accuracy is relatively low (~10%). This is expected due to:
 
 The goal of this project is to demonstrate a clean and correct
 machine learning pipeline rather than to optimize model accuracy.
+
+## Future Improvements
+
+- Add command-line arguments for flexibility
+- Improve error handling
+- Extend the project with additional features
