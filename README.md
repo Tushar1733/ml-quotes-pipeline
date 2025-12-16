@@ -22,3 +22,13 @@ the author of a quote using text features.
 ```bash
 pip install -r requirements.txt
 python train.py
+
+## Model Performance Notes
+
+The classification accuracy is relatively low (~10%). This is expected due to:
+- A large number of author classes
+- Very few quotes per author
+- Short quote length and overlapping writing styles
+
+The goal of this project is to demonstrate a clean and correct
+machine learning pipeline rather than to optimize model accuracy.
